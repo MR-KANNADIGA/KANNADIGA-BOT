@@ -1,0 +1,46 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $PRO_REPO == "PROBOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+    elif [[ $PRO_REPO == "PROBOT" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+    elif [[ $PRO_REPO =~ $regex ]]
+    then
+        if [[ $PRO_REPO_BRANCH ]]
+        then
+            echo "${PRO_REPO}/archive/${PRO_REPO_BRANCH}.zip"
+        else
+            echo "${PRO_REPO}/archive/Pro.zip"
+        fi
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+    fi
+}
+
+
+_pro_bot () {
+    local zippath
+    zippath="Pro.zip"
+    echo "  🔰 Downloading Pro LegendBot Source Code... 🔰"
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  📍Unpacking Data...📍"
+    PROPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo " 🏅 Download Complete Now Installing 🏅"
+    echo "  ✨ INSTALLING PRO LEGENDBOT ✨"
+    rm -rf "$zippath"
+    sleep 5
+    cd $LEGENDPATH
+    echo "    ⚜️Starting Pro Lêɠêɳ̃dẞø†⚜️     "
+    echo " ♥️ NOW WAIT 3 MIN INSTALLING ALL PLUGIN ♥️"
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_pro_bot
