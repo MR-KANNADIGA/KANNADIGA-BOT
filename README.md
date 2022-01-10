@@ -29,9 +29,7 @@
 
 ----------
 
-<details>
-
-  <summary> • Deploy To Heroku 🚀 (Click Here) • </summary>
+<h4> Deploy Pro LegendBot <\h4>
 
 - First Fork This Repo
  
@@ -41,9 +39,13 @@
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-</details>
-
 ------
+
+
+<details>
+
+  <summary> • Know More About Pro LegendBot • </summary>
+
 ## Status Of Bot 
 <p align="left">
     <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
@@ -129,6 +131,7 @@
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your LegendBot Session Will be saved in your Telegram Saved Message.
 
+</details>
 
 ------
 ## Disclaimer
