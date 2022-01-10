@@ -31,7 +31,7 @@
 
 <details>
 
-  <summary> • Dєρℓογ το нєяοκυ 🚀 • </summary>
+  <summary> • Deploy To Heroku 🚀 (Click Here) • </summary>
 
 - First Fork This Repo
  
