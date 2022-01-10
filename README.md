@@ -39,16 +39,18 @@
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
+-----------
+
 <details>
 
   <summary> • 💫 Status Of Bot 💫 • </summary>
  
 <p align="left">
+-----------
 
-- <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left">
+- <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
-- <a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
-
+-----------
 </details>
 
 <details>
@@ -59,6 +61,8 @@
 
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+
+-----------
 
 </details>
 
@@ -78,6 +82,8 @@
 <details>
 
   <summary> •🏅 Deploy Locally 🏅• </summary> 
+
+-----------
 
 - Clone the repo. 
 
@@ -101,11 +107,15 @@
 
 `bash ./LEGENDBOT/start.sh`
 
+-----------
+
 </details>
 
 <details>
 
   <summary> • 📖 Variables 📖 • </summary> 
+
+-----------
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -114,11 +124,15 @@
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
+-----------
+
 </details>
 
 <details>
 
   <summary> •🏅 REPL 🏅• </summary> 
+
+-----------
 
 - To Get Details Of StringSession Follow Step: 
 
@@ -148,11 +162,15 @@
 
 - String will be saved in your Saved Message.
 
+-----------
+
 </details>
 
 <details>
 
   <summary> • 📍 Termux / Terminal 📍• </summary> 
+
+-----------
 
 - Open the terminal.
 - Paste this code.
@@ -164,11 +182,15 @@
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your LegendBot Session Will be saved in your Telegram Saved Message.
 
+-----------
+
 </details>
 
 <details>
 
   <summary> • 🔱 Disclaimer 🔱• </summary> 
+
+-----------
 
 - We won't be responsible for any kind of ban due to this bot.
 - TutorialBot was made for fun purpose and to make group management easier.
@@ -178,13 +200,17 @@
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 
+-----------
+
 </details>
 
 <details>
 
   <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+-----------
+
+![Pro LegendBot](https://www.gnu.org/graphics/gplv3-or-later.png)
 
 LEGEND-OS
 
@@ -207,5 +233,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 
 along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+-----------
 
 </details>
