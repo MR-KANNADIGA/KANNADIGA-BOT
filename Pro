@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $PRO_REPO == "PROBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
     elif [[ $PRO_REPO == "PROBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
     elif [[ $PRO_REPO =~ $regex ]]
     then
         if [[ $PRO_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${PRO_REPO}/archive/Pro.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk9VU0VSQk9UL2FyY2hpdmUvUHJvLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
     fi
 }
 
