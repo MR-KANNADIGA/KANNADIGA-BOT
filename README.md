@@ -41,16 +41,18 @@
 
 <details>
 
-  <summary> • 💫Status Of Bot 💫• </summary>
+  <summary> • 💫 Status Of Bot 💫 • </summary>
  
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+- <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left">
+
+- <a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
 </details>
 
 <details>
 
-  <summary> • Telegram 🏪 • </summary>
+  <summary> • 🏪 Telegram 🏪 • </summary>
 
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
@@ -59,7 +61,7 @@
 
 <details>
 
-  <summary> • YouTube 📺 • </summary>
+  <summary> • 📺 YouTube 📺 • </summary>
 
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
@@ -96,7 +98,8 @@
 
 <details>
 
-  <summary> •📖 Variables 📖• </summary> 
+  <summary> • 📖 Variables 📖 • </summary> 
+
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
 - `PRO_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
@@ -110,23 +113,33 @@
 
   <summary> •🏅 REPL 🏅• </summary> 
 
-    -To Get Details Of StringSession Follow Step: 
+- To Get Details Of StringSession Follow Step: 
 
-    - Go To Telegram And Search @Pro_StringBot
-    - Click Start
-    - Send Ur Phone Number To @Pro_StringBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
-    - Copy Ur Code
-    - Paste Ur Code in @Pro_StringBot
-    - U Received APP ID
-    - Now Run StringSession Given Below:
+- Go To Telegram And Search @Pro_StringBot
+
+- Click Start
+
+- Send Ur Phone Number To @Pro_StringBot
+
+- U Received Code From Telegram Like This=VGFK0rHbzaF
+
+- Copy Ur Code
+
+- Paste Ur Code in @Pro_StringBot
+
+- U Received APP ID
+
+- Now Run StringSession Given Below:
    
-- [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+## [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
-    - Click On Generate String
-    - Then Click On Green Run Button.
-    - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
+- Click On Generate String
+
+- Then Click On Green Run Button.
+
+- Wait for a while then fill the details.
+
+- String will be saved in your Saved Message.
 
 </details>
 
