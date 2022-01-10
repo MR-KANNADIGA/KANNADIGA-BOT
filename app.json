@@ -1,21 +1,21 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "Pro-Lêɠêɳ̃dẞø†",
+  "description": "Tнє Smoothest And Fattest Bot Made By Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "pro",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
+  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
+  "success_url": "https://t.me/Pro_LegendBot",
   "env": {
     "ENV": {
-      "description": "Set this to ANYTHING will enable heroku.",
+      "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
@@ -25,16 +25,16 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "Pro-Lêɠêɳ̃dẞø† Is Only For Pro Person",
       "required": false
     },
     "ABUSE": {
-      "description": " Set ON or OFF",
+      "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Setting",
       "value": "",
       "required" :true
     },
     "EXTRA_PLUGIN": {
-      "description": "Set ON or OFF",
+      "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Setting ",
       "value": "",
       "required" :true
     },
