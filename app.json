@@ -19,47 +19,47 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "description": "Fill your Full name. By default it is Pro-Person",
+      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Pro-Lêɠêɳ̃dẞø† Is Only For Pro Person",
+      "value": "Přõ-Lêɠêɳ̃dẞø† Is Only For Pro Person",
       "required": false
     },
     "ABUSE": {
-      "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Setting",
+      "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
       "value": "",
       "required" :true
     },
     "EXTRA_PLUGIN": {
-      "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Setting ",
+      "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
       "value": "",
       "required" :true
     },
     "SPAM": {
-      "description": "Set ON or OFF",
+      "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
       "value": "",
       "required" :true
     },
     "ASSISTANT": {
-      "description": "Set ON or OFF",
+      "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
       "value": "",
       "required" :true
     },
     "YOUR_GROUP": {
-      "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "description": "Set Your Group Username. By Default It Is (@LegendBot_Pro)",
+      "value": "@LegendBot_Pro",
       "required": false
     },
     "YOUR_CHANNEL": {
-      "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "description": "Set Your Channel Username",
+      "value": "@Pro_LegendBot",
       "required": false
     },
     "BOY_OR_GIRL": {
-      "description": "Set Boy Or Girl",
+      "description": "Set Boy Or Girl. It Will Set Boy Like Boy Bot Else Set Like Girl Bot And Its Design",
       "value": "Boy",
       "required": false
     },
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "I Am Pro Person Because I am User Of Pro LegendBot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -100,16 +100,16 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "Hello I Am Assistant.\nPM Security Of My Owner To Protect From Spammers. Dont Spam Here Else Get Ban By Me\n Wait For My Owner To Allow U To Message\nThankYou!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
-      "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
+      "description": "Set Spam Number After That He Get Blocked By Deafault It Is (5)",
       "value": "5",
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "description": "Create a Private Group With Add @MissRose_bot Do /id. Value Should Be Start With -",
       "value": "",
       "required": true
     },
@@ -118,7 +118,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "Enter your friends user id to to give him bot full access",
+      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Pro LegendBot Group",
       "value": "",
       "required": false
     },
@@ -137,10 +137,10 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
+      "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "PRO_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
@@ -172,19 +172,19 @@
       "value": "2",
       "required": true
     },
-    "EMOJI_IN_HELP1": {
+    "HELP_EMOJI1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
       "value": "",
       "required": false
     },
-    "EMOJI_IN_HELP2": {
+    "HELP_EMOJI2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
       "value": "",
       "required": false
     },
     "PM_DATA": {
-      "description": "Type DISABLE if you want to disable pm protection... ",
-      "value": "ENABLE",
+      "description": "Type OFF if you want to disable pm protection... ",
+      "value": "ON",
       "required": true
     }
   },
