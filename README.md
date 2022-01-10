@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『Přô- Lêɠêɳ̃dẞø† -Přô』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![PRO-LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⭐ Pro LegendBot Is One Of The Unique & Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
@@ -27,6 +27,22 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
+----------
+
+<details>
+
+  <summary> • Dєρℓογ το нєяοκυ 🚀 • </summary>
+
+- First Fork This Repo
+ 
+- Change Name Of Repo From Setting 
+
+- Click Below To Deploy To Heroku 
+
+<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+
+</details>
+
 ------
 ## Status Of Bot 
 <p align="left">
@@ -42,22 +58,6 @@
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
-------------
-<h3> Dєρℓογ το нєяοκυ </h3>
-
-## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
-
-<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-</a>
-
-- First Fork This Repo
-
-- Change Name Of Repo
-
-- Click Below Deploy To Heroku
-
-
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
