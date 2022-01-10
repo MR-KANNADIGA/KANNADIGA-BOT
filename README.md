@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> 『Přô- Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> Přô-Lêɠêɳ̃dẞø† </b>
 </h1>
 
 [![PRO-LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
@@ -27,6 +27,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
+---------
 
 <h4> Deploy Pro LegendBot </h4>
 
@@ -40,7 +41,7 @@
 
 <details>
 
-  <summary> • Status Of Bot • </summary>
+  <summary> • 💫Status Of Bot 💫• </summary>
  
 <p align="left">
     <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
