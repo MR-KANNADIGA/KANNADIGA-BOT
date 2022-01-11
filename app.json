@@ -33,6 +33,16 @@
       "value": "",
       "required" :true
     },
+    "EVAL": {
+      "description": " Set ON or OFF. It Will Activate It Will Activate Eval Cmd",
+      "value": "OFF",
+      "required" :true
+    },
+   "INSTANT_BLOCK": {
+      "description": " Set ON or OFF. If ON then It Will Block A Person In Just Single Message Who DM/PM You",
+      "value": "",
+      "required" :true
+    },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
       "value": "",
@@ -68,7 +78,7 @@
       "value": "",
       "required": false
     },
-    "OP_PIC": {
+    "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
       "value": "",
       "required": false
@@ -127,10 +137,10 @@
       "value": ",",
       "required": false
     },
-    "COMMAND_HAND_LER": {
+    "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
-      "required": true
+      "value": "",
+      "required": false 
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
