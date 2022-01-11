@@ -35,7 +35,7 @@ _pro_bot () {
     echo "  ✨ INSTALLING PRO LEGENDBOT ✨"
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
+    cd $PROPATH
     echo "    ⚜️Starting Pro Lêɠêɳ̃dẞø†⚜️     "
     echo " ♥️ NOW WAIT 3 MIN INSTALLING ALL PLUGIN ♥️"
 
