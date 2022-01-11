@@ -104,7 +104,7 @@ spotdl
 sqlalchemy
 telegraph
 twitter_scraper
-telethon
+git+https://github.com/PROBOY-OP/Telethon
 tgcrypto
 tswift
 html-telegraph-poster
