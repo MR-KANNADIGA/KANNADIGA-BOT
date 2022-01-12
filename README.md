@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> Přô-Lêɠêɳ̃dẞø† </b>
+<b> Přô Lêɠêɳ̃dẞø† </b>
 </h1>
 
 [![PRO-LEGENDBOT](https://telegra.ph/file/19ae4094f99bf6956c86f.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
