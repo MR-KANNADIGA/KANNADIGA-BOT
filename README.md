@@ -5,7 +5,7 @@
 [![PRO-LEGENDBOT](https://telegra.ph/file/19ae4094f99bf6956c86f.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
 
 <h6 align="center">
-  <b>⭐ Pro LegendBot Is One Of The Unique & Fastest & Smoothest Bot On Telegram Based on Telethon ⭐</b>
+  <b>⭐̲ ̲P̲r̲o̲ ̲L̲e̲g̲e̲n̲d̲B̲o̲t̲ ̲I̲s̲ ̲O̲n̲e̲ ̲O̲f̲ ̲T̲h̲e̲ ̲U̲n̲i̲q̲u̲e̲ ̲&̲ ̲F̲a̲s̲t̲e̲s̲t̲ ̲&̲ ̲S̲m̲o̲o̲t̲h̲e̲s̲t̲ ̲B̲o̲t̲ ̲O̲n̲ ̲T̲e̲l̲e̲g̲r̲a̲m̲ ̲B̲a̲s̲e̲d̲ ̲o̲n̲ ̲T̲e̲l̲e̲t̲h̲o̲n̲ ̲⭐̲</b>
 </h6>
 
 ---------
