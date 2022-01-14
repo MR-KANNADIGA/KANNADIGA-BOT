@@ -1,6 +1,6 @@
 {
-  "name": "Pro-Lêɠêɳ̃dẞø†",
-  "description": "Tнє Smoothest And Fastest Bot Made By Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "Pro-LegendBot",
+  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
   "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBot",
+  "success_url": "https://t.me/Pro_LegendBotss",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -25,7 +25,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Přõ-Lêɠêɳ̃dẞø† Is Only For Pro Person",
+      "value": "",
       "required": false
     },
     "ABUSE": {
@@ -59,13 +59,13 @@
       "required" :true
     },
     "YOUR_GROUP": {
-      "description": "Set Your Group Username. By Default It Is (@LegendBot_Pro)",
-      "value": "@LegendBot_Pro",
+      "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
+      "value": "@LegendBot_Pros",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBot",
+      "value": "@Pro_LegendBots",
       "required": false
     },
     "BOY_OR_GIRL": {
