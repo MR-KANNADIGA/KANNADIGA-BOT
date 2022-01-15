@@ -1,10 +1,17 @@
-<h4> Deploy Pro PRO-LEGENDBOT </h4>
+<h1 align="center">
+<b> Přô Lêɠêɳ̃dẞø† </b>
+</h1>
 
-- [Click Here](https://github.com/PROBOY-OP/PRO-PRO-LEGENDBOT)
- 
-- Change Name Of Repo From Setting 
+[![PRO-LEGENDBOT](https://telegra.ph/file/19ae4094f99bf6956c86f.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
 
-- Click Below To Deploy To Heroku 
+<h6 align="center">
+  <b>⭐̲ Pro LegendBot Is One Of The Unique & Fastest & Smoothest Bot On Telegram Based on Telethon ⭐̲</b>
+</h6>
+
+---------
+
+<h4> Deploy PŘÔ-Lêɠêɳ̃dẞø† </h4>
+
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
@@ -44,7 +51,7 @@
 
 ---------
 
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/xUnyW8qz6ZI?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/xUnyW8qz6ZI)
 
 --------
@@ -59,7 +66,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/PRO-LEGENDBOT/PRO-USERBOT.git`
+`git clone https://github.com/PROBOY-OP/PRO-USERBOT.git`
 - Open Cloned Folder.
 
 `cd PRO-USERBOT`
@@ -71,13 +78,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate PRO STRING.
+- Generate PRO_STRING.
 
 `python String.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start PRO-LEGENDBOT By Vps
+- Finally Start LegendBot By Vps
 
-`bash ./PRO-LEGENDBOT/start.sh`
+`bash ./PRO/start.sh`
 
 -----------
 
@@ -108,11 +115,11 @@
 
 - To Get Details Of StringSession Follow Step: 
 
-- Go To Telegram And Search @LegendStringbot
+- Go To Telegram And Search @Pro_StringBot
 
 - Click Start
 
-- Send Ur Phone Number To @LegendStringbot
+- Send Ur Phone Number To @Pro_StringBot
 
 - U Received Code From Telegram Like This=VGFK0rHbzaF
 
@@ -147,12 +154,12 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/PRO-LEGENDBOT/PRO-USERBOT/PRO-LEGENDBOT/String.py && python3 String.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/PROBOY-OP/PRO-USERBOT/Pro/String.py && python3 String.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your PRO-LEGENDBOT Session Will be saved in your Telegram Saved Message.
+- Your Pro LegendBot Session Will be saved in your Telegram Saved Message.
 
 -----------
 
@@ -182,7 +189,7 @@
 
 -----------
 
-![Pro PRO-LEGENDBOT](https://www.gnu.org/graphics/gplv3-or-later.png)
+![Pro LegendBot](https://www.gnu.org/graphics/gplv3-or-later.png)
 
 PROBOY-OP
 
@@ -209,5 +216,3 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 -----------
 
 </details>
-
-
