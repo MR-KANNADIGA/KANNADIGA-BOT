@@ -1,6 +1,6 @@
 {
   "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
   "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBotss",
+  "success_url": "https://t.me/Pro_LegendBots",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -30,16 +30,6 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
-      "required" :true
-    },
-    "EVAL": {
-      "description": " Set ON or OFF. It Will Activate It Will Activate Eval Cmd",
-      "value": "OFF",
-      "required" :true
-    },
-   "INSTANT_BLOCK": {
-      "description": " Set ON or OFF. If ON then It Will Block A Person In Just Single Message Who DM/PM You",
       "value": "",
       "required" :true
     },
@@ -151,7 +141,7 @@
       "value": ""
     }, 
     "PRO_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
