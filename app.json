@@ -1,7 +1,7 @@
 {
-  "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "KANNADIGA-BOT",
+  "description": "Tнє Smoothest And Fastest Bot Made By Professior Agora (@Mr_Professor_Agora). Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/5de6ab92189e905869095.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBots",
+  "repository": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
+  "website": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
+  "success_url": "https://t.me/KANNADIGA_BOTS",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -24,7 +24,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .kannadiga   Command.",
       "value": "",
       "required": false
     },
@@ -49,13 +49,13 @@
       "required" :true
     },
     "YOUR_GROUP": {
-      "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "@LegendBot_Pros",
+      "description": "Set Your Group Username. By Default It Is (@NAAN_1_KANNADIGA)",
+      "value": "@NAAN_1_KANNADIGA",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBots",
+      "value": "@KANNADIGA_BOTS",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Pro Person Because I am User Of Pro LegendBot 🇮🇳.",
+      "value": "I Am Pro Person Because I am User Of Kanadiga Bot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -118,7 +118,7 @@
       "value": ""
     },
     "SUDO_USERS": {
-      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Pro LegendBot Group",
+      "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Kanadiga Bot Group",
       "value": "",
       "required": false
     },
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "PRO_STRING": {
-      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@MR-KANNADIGA/KANNADIGA-BOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -163,12 +163,12 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In kannadiga  Command default 7",
       "value": "7",
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In kannadiga  Command default 2",
       "value": "2",
       "required": true
     },
