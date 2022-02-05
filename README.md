@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> PRO LEGENDBOT USERBOT </b>
+<b> KANNADIGA BOT </b>
 </h1>
 
-[![PRO-LEGENDBOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
+[![KANNADIGA BOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
 
 <h6 align="center">
-  <b>⭐̲ Pro LegendBot Is One Of The Unique & Fastest & Smoothest Bot On Telegram Based on Telethon ⭐̲</b>
+  <b>⭐̲ TELEGRAM'S 1ˢᵗ USERBOT OF KARNATAKA MADE BY MR KANNADIGA (PROFESSOR AGORA) ⭐̲</b>
 </h6>
 
 ---------
