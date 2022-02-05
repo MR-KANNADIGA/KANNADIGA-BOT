@@ -2,7 +2,7 @@
 <b> KANNADIGA BOT </b>
 </h1>
 
-[![KANNADIGA BOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
+[![KANNADIGA BOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/MR-KANNADIGA/KANNADIGA-BOT)
 
 <h6 align="center">
   <b>⭐̲ TELEGRAM'S 1ˢᵗ USERBOT OF KARNATAKA MADE BY MR KANNADIGA (PROFESSOR AGORA) ⭐̲</b>
@@ -10,7 +10,7 @@
 
 ---------
 
-<h4> Deploy PŘÔ-Lêɠêɳ̃dẞø† </h4>
+<h4> Deploy KANNADIGABO† </h4>
 
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
@@ -25,9 +25,9 @@
 
 -----------
 
-- <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/PROBOY-OP/PRO-LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT/network/members"><img src="https://img.shields.io/github/forks/MR-KANNADIGA/KANNADIGA-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/PROBOY-OP/PRO-LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT?"></a>
+- <a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT/stargazers"><img src="https://img.shields.io/github/stars/MR-KANNADIGA/KANNADIGA-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT"></a><p align="left"><a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT?"></a>
 
 -----------
 </details>
@@ -66,7 +66,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/PROBOY-OP/PRO-USERBOT.git`
+`git clone https://github.com/MR-KANNADIGA/PRO-USERBOT.git`
 - Open Cloned Folder.
 
 `cd PRO-USERBOT`
@@ -131,7 +131,7 @@
 
 - Now Run StringSession Given Below:
    
-## [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py) 
+## [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@MR-KANNADIGA/KANNADIGA-BOT#main.py) 
 
 - Click On Generate String
 
@@ -154,12 +154,12 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/PROBOY-OP/PRO-USERBOT/Pro/String.py && python3 String.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/MR-KANNADIGA/PRO-USERBOT/Pro/String.py && python3 String.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your Pro LegendBot Session Will be saved in your Telegram Saved Message.
+- Your KANNADIGA Bot Session Will be saved in your Telegram Saved Message.
 
 -----------
 
@@ -189,11 +189,11 @@
 
 -----------
 
-![Pro LegendBot](https://www.gnu.org/graphics/gplv3-or-later.png)
+![KANNADIGA Bot](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-PROBOY-OP
+MR-KANNADIGA
 
-Poject [PRO-LEGENDBOT](https://github.com/PROBOY-OP/PRO-LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [KANNADIGA-BOT](https://github.com/MR-KANNADIGA/KANNADIGA-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
