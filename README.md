@@ -66,10 +66,10 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/MR-KANNADIGA/PRO-USERBOT.git`
+`git clone https://github.com/MR-KANNADIGA/KANNADIGA-USERBOT.git`
 - Open Cloned Folder.
 
-`cd PRO-USERBOT`
+`cd KANNADIGA-USERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -154,7 +154,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/MR-KANNADIGA/PRO-USERBOT/Pro/String.py && python3 String.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/MR-KANNADIGA/KANNADIGA-USERBOT/Pro/String.py && python3 String.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
