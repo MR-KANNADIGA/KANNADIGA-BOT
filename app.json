@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- kannadiga -⚡ 』",
+      "value": "『💛 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 ❤️』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .kannadiga   Command.",
-      "value": "",
+      "value": "𝗡𝗔𝗔𝗡 𝗢𝗕𝗕𝗔 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔",
       "required": false
     },
     "ABUSE": {
@@ -65,42 +65,42 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/6d94317401330339e1e02.mp4",
       "required": false
     },
     "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/331766218f63e46ffe175.mp4",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/4eba78d12030ad7ad7f04.mp4",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/331766218f63e46ffe175.mp4",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": " 🚩 ",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Pro Person Because I am User Of Kanadiga Bot 🇮🇳.",
+      "value": "I Am Kannadiga Because I am User Of Kanadiga Bot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/c085085b63638ae1ba5cf.jpg",
       "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "Hello I Am Assistant.\nPM Security Of My Owner To Protect From Spammers. Dont Spam Here Else Get Ban By Me\n Wait For My Owner To Allow U To Message\nThankYou!",
+      "value": "Hello I Am Assistant.\nPM Security Of My Owner To Protect From Spammers. Dont Spam Here Else Get Ban By Me\n Wait For My Owner To Allow U To Message\nThankYou! Join @Naan_1_kannadiga",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -119,7 +119,7 @@
     },
     "SUDO_USERS": {
       "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Kanadiga Bot Group",
-      "value": "",
+      "value": "5127482645",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -174,12 +174,12 @@
     },
     "HELP_EMOJI1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💛",
       "required": false
     },
     "HELP_EMOJI2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "❤️",
       "required": false
     },
     "PM_DATA": {
