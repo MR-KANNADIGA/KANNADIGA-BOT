@@ -38,8 +38,8 @@
 
 ---------
 
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_Pros)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Pro_LegendBots)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/NAAN_1_KANNADIGA)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KANNADIGA_BOTS)
 
 -----------
 
@@ -78,11 +78,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate PRO_STRING.
+- Generate KANNADIGA_STRING.
 
 `python String.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
+- Finally Start Kannadiga Bot By Vps
 
 `bash ./PRO/start.sh`
 
@@ -98,7 +98,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `PRO_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `KANNADIGA_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -115,17 +115,17 @@
 
 - To Get Details Of StringSession Follow Step: 
 
-- Go To Telegram And Search @Pro_StringBot
+- Go To Telegram And Search @KANNADIGA_STRINGBot
 
 - Click Start
 
-- Send Ur Phone Number To @Pro_StringBot
+- Send Ur Phone Number To @KANNADIGA_STRINGBot
 
 - U Received Code From Telegram Like This=VGFK0rHbzaF
 
 - Copy Ur Code
 
-- Paste Ur Code in @Pro_StringBot
+- Paste Ur Code in @KANNADIGA_STRINGBot
 
 - U Received APP ID
 
