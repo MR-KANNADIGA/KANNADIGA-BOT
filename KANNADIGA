@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $KANNADIGA_REPO == "KANNADIGABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUtBTk5BRElHQS9LQU5OQURJR0EtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $KANNADIGA_REPO == "KANNADIGABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUtBTk5BRElHQS9LQU5OQURJR0EtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $KANNADIGA_REPO =~ $regex ]]
     then
         if [[ $KANNADIGA_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${KANNADIGA_REPO}/archive/KANNADIGA.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01SLUtBTk5BRElHQS9LQU5OQURJR0EtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
@@ -26,7 +26,7 @@ _get_repolink () {
 _KANNADIGA_bot () {
     local zippath
     zippath="KANNADIGA.zip"
-    echo "  🔰 Downloading KANNADIGA LegendBot Source Code... 🔰"
+    echo "  🔰 Downloading KANNADIGA Source Code... 🔰"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  📍Unpacking Data...📍"
     KANNADIGAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
@@ -36,7 +36,7 @@ _KANNADIGA_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $KANNADIGAPATH
-    echo "    ⚜️Starting KANNADIGA Lêɠêɳ̃dẞøt⚜️     "
+    echo "    ⚜️Starting KANNADIGA ẞøt⚜️     "
     echo " ♥️ NOW WAIT 3 MIN INSTALLING ALL PLUGIN ♥️"
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
