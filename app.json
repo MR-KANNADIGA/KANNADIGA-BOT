@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『💛 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 ❤️』",
+      "value": "『💛 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰 ❤️』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .kannadiga   Command.",
-      "value": "𝗡𝗔𝗔𝗡 𝗢𝗕𝗕𝗔 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔",
+      "value": "𝙽𝙰𝙰𝙽 𝙾𝙱𝙱𝙰 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰",
       "required": false
     },
     "ABUSE": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Kannadiga Because I am User Of Kanadiga Bot 🇮🇳.",
+      "value": "I Am Proud Kannadiga Because I am User Of Kanadiga Bot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "Hello I Am Assistant.\nPM Security Of My Owner To Protect From Spammers. Dont Spam Here Else Get Ban By Me\n Wait For My Owner To Allow U To Message\nThankYou! Join @Naan_1_kannadiga",
+      "value": "Hello I Am Assistant of Kannadiga Master.\nPM Security Of My Owner To Protect From Spammers. Dont Spam Here Else Get Ban By Me\n Wait For My Owner To Allow U To Message\nThankYou! Join @Naan_1_kannadiga",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -110,7 +110,7 @@
     },
     "LOGGER_ID": {
       "description": "Create a Private Group With Add @MissRose_bot Do /id. Value Should Be Start With -",
-      "value": "",
+      "value": "-727572604",
       "required": true
     },
     "APP_ID": {
@@ -129,7 +129,7 @@
     },
     "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": "",
+      "value": ".",
       "required": false 
       },
     "API_HASH": {
@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Paste Group Id Which U Get From @missrose_bot",
-      "value": ""
+      "value": "-727572604"
     }, 
     "KANNADIGA_STRING": {
       "description": "Get this value by running https://replit.com/@MR-KANNADIGA/KANNADIGA-BOT#main.py ",
