@@ -45,15 +45,6 @@
 
 </details>
 
-<details>
-
-  <summary> • 📺 YouTube 📺 • </summary>
-
----------
-
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/xUnyW8qz6ZI)
-
 --------
 
 </details>
