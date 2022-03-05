@@ -39,7 +39,7 @@
 ---------
 
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/NAAN_1_KANNADIGA)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KANNADIGA_BOTS)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/MASTI_IN_DOSTI)
 
 -----------
 
