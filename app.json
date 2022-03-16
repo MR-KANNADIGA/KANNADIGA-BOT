@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『💛 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰 ❤️』",
+      "value": "OFFICIALHACKER",
       "required": false
     },
     "ALIVE_MSG": {
