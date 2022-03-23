@@ -1,6 +1,6 @@
 {
   "name": "KANNADIGA-BOT",
-  "description": "Tнє Smoothest And Fastest Bot Made By Professior Agora (@Mr_Professor_Agora). Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "Tнє Smoothest And Fastest Bot Made By Professior Agora (@Karunada_king). Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg",
   "keywords": [
     "telegram",
@@ -55,7 +55,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@KANNADIGA_BOTS",
+      "value": "@Karunada_kings_and_queens",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -119,7 +119,7 @@
     },
     "SUDO_USERS": {
       "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Kanadiga Bot Group",
-      "value": "5201305448 5235824260",
+      "value": "5246438045 5236960898",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
