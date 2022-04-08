@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
   "website": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
-  "success_url": "https://t.me/KANNADIGA_BOTS",
+  "success_url": "https://t.me/KARUNADA_KINGS_AND_QUEENS",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,42 +20,42 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『💛 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰 ❤️』",
+      "value": "『💛 KKAQ ARMY ❤️』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .kannadiga   Command.",
-      "value": "𝙽𝙰𝙰𝙽 𝙾𝙱𝙱𝙰 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰",
+      "value": "KARUNADA KINGS AND QUEENS",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
+      "value": "IN",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@NAAN_1_KANNADIGA)",
-      "value": "@NAAN_1_KANNADIGA",
+      "value": "@KARUNADA_KINGS_AND_QUEENS",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Karunada_kings_and_queens",
+      "value": "@Karunada_FIGHTERS",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Proud Kannadiga Because I am User Of Kanadiga Bot 🇮🇳.",
+      "value": "I Am Proud Kannadiga Because I am Friend of @Karunada_King and Using Kannadiga Bot🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -119,7 +119,7 @@
     },
     "SUDO_USERS": {
       "description": "Its Sudo Access To Give Bot Access To Ur Friend. To Know More About It do #sudo In Kanadiga Bot Group",
-      "value": "5246438045 5236960898",
+      "value": "5246438045",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
